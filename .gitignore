@@ -110,3 +110,4 @@ coverage.xml
 # static root files
 rootFiles/
 media_cdn/
+static_cdn/
