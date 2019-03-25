@@ -15,7 +15,7 @@ def Homepage(request):
     name = 'Eduard Khiaev'
     age = calculate_age(birthDay)
     country = 'Israel'
-    location = 'Tel-Aviv'
+    location = 'Rishon Le-Tsiyon'
     eMail = 'eddietheone1984@gmail.com'
     phone = '052-4712148'
     freelance = 'Soon'
