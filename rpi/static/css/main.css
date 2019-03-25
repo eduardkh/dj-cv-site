@@ -216,20 +216,12 @@ button:focus {
   background: #3b5999;
 }
 
-.social-icon li .twitter:hover {
-  background: #4A9CEC;
-}
-
-.social-icon li .instagram:hover {
-  background: #D6274D;
+.social-icon li .github:hover {
+  background: #1C1C20;
 }
 
 .social-icon li .linkedin:hover {
   background: #1260A2;
-}
-
-.social-icon li .google:hover {
-  background: #CE332A;
 }
 
 /* ScrollToTop */
